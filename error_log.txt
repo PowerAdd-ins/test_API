@@ -1,0 +1,2601 @@
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
+Fila 2: Error invalid literal for int() with base 10: ''
+Fila 67: Error invalid literal for int() with base 10: ''
+Fila 84: Error invalid literal for int() with base 10: ''
+Fila 87: Error invalid literal for int() with base 10: ''
+Fila 97: Error invalid literal for int() with base 10: ''
+Fila 133: Error invalid literal for int() with base 10: ''
+Fila 157: Error Fecha de ingreso vacía
+Fila 198: Error invalid literal for int() with base 10: ''
+Fila 207: Error invalid literal for int() with base 10: ''
+Fila 216: Error invalid literal for int() with base 10: ''
+Fila 393: Error invalid literal for int() with base 10: ''
+Fila 533: Error invalid literal for int() with base 10: ''
+Fila 663: Error Fecha de ingreso vacía
+Fila 685: Error invalid literal for int() with base 10: ''
+Fila 758: Error invalid literal for int() with base 10: ''
+Fila 789: Error Fecha de ingreso vacía
+Fila 792: Error invalid literal for int() with base 10: ''
+Fila 824: Error invalid literal for int() with base 10: ''
+Fila 832: Error invalid literal for int() with base 10: ''
+Fila 932: Error invalid literal for int() with base 10: ''
+Fila 942: Error invalid literal for int() with base 10: ''
+Fila 955: Error invalid literal for int() with base 10: ''
+Fila 961: Error invalid literal for int() with base 10: ''
+Fila 1092: Error Fecha de ingreso vacía
+Fila 1095: Error Fecha de ingreso vacía
+Fila 1098: Error invalid literal for int() with base 10: ''
+Fila 1110: Error invalid literal for int() with base 10: ''
+Fila 1252: Error Fecha de ingreso vacía
+Fila 1279: Error invalid literal for int() with base 10: ''
+Fila 1304: Error invalid literal for int() with base 10: ''
+Fila 1323: Error Fecha de ingreso vacía
+Fila 1413: Error invalid literal for int() with base 10: ''
+Fila 1423: Error invalid literal for int() with base 10: ''
+Fila 1432: Error invalid literal for int() with base 10: ''
+Fila 1463: Error invalid literal for int() with base 10: ''
+Fila 1467: Error Fecha de ingreso vacía
+Fila 1474: Error invalid literal for int() with base 10: ''
+Fila 1483: Error Fecha de ingreso vacía
+Fila 1523: Error invalid literal for int() with base 10: ''
+Fila 1561: Error invalid literal for int() with base 10: ''
+Fila 1589: Error invalid literal for int() with base 10: ''
+Fila 1590: Error invalid literal for int() with base 10: ''
+Fila 1613: Error invalid literal for int() with base 10: ''
+Fila 1686: Error Fecha de ingreso vacía
+Fila 1714: Error invalid literal for int() with base 10: ''
+Fila 1780: Error Fecha de ingreso vacía
+Fila 1814: Error Fecha de ingreso vacía
+Fila 1860: Error invalid literal for int() with base 10: ''
+Fila 1869: Error Fecha de ingreso vacía
+Fila 1925: Error Fecha de ingreso vacía
+Fila 1987: Error invalid literal for int() with base 10: ''
