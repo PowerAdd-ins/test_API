@@ -12,9 +12,15 @@ import database
 import models
 import schemas
 import crud
+import os
+import uvicorn
 
 
 app = FastAPI()
+
+if __name__ == "__main__":
+    port = int(os.getenv("PORT", 8000))  # Obtiene el puerto de Railway o usa 8000 por defecto
+    uvicorn.run("main:app", host="0.0.0.0", port=port)
 
 # Crea las tablas en la BD si no existen
 models.Base.metadata.create_all(bind=database.engine)
