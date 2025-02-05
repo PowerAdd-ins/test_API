@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-DATABASE_URL = "mysql+pymysql://root:vNvEavEDZmGBuJkZTewfuvBUGCHZwqks@monorail.proxy.rlwy.net:10930/railway"
+DATABASE_URL = "mysql+pymysql://root:cKLRbeSHWbOSnPnipZFsFSJXaHHHoTGh@monorail.proxy.rlwy.net:45879/railway"
 
 engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
